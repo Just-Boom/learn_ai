@@ -1,0 +1,13 @@
+D:\mycar\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\mycar\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\mycar\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\mycar\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\mycar\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\mycar\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+D:\mycar\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\mycar\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\mycar\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\mycar\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\mycar\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\mycar\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\mycar\WindowsApp1\obj\Debug\WindowsApp1.pdb
